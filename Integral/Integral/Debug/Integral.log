@@ -1,4 +1,0 @@
-﻿  Integral.cpp
-D:\Main\VS projects\Integral\Integral\Integral.cpp(14,22): warning C4101: numthreads: неиспользованная локальная переменная
-D:\Main\VS projects\Integral\Integral\Integral.cpp(14,12): warning C4101: idthread: неиспользованная локальная переменная
-  Integral.vcxproj -> D:\Main\VS projects\Integral\Debug\Integral.exe
